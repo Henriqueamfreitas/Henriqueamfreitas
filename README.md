@@ -1,6 +1,6 @@
 ### Olá, eu sou o Henriqueamfreitas 👋
-- 🔭 Atualmente, trabalho como dsesenvolvedor fullstack
-- 🌱 Aprofundando meus conehcimentos em Python
+- 🔭 Atualmente, trabalho como desenvolvedor fullstack
+- 🌱 Aprofundando meus conhecimentos em Python
 - 📫 Contate-me no email: henriqueannicchino89@gmail.com
 - 😄 Pronomes: ele/dele
 <div style="display: inline_block"><br>
